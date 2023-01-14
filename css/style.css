@@ -1,0 +1,30 @@
+.sidebar {
+    background-color:deepskyblue;
+    width: 300px;
+    text-align: center;
+    height: 1500px;
+}
+
+.photo {
+    background-color: aqua;
+    background-size: cover;
+    padding: 20px;
+}
+
+.border {
+    background-color: black;
+    width: 310px;
+}
+
+.name {
+    text-decoration: underline;
+}
+
+.name + .port {
+    margin-top: -25px;
+}
+
+p {
+    text-align: left;
+    text-decoration: underline;
+}
