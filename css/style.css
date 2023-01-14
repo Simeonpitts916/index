@@ -26,5 +26,29 @@
 
 p {
     text-align: left;
+}
+
+.containor {
+    background-color: white;
+    display: flex;
+    text-align: center;
+}
+
+.topice-1 {
+    background-color: white;
+    height: 100px;
+    width: 70%;
+}
+
+.aboutme {
+    font-style: oblique;
+    text-align: center;
+
+}
+
+.abouttitle {
     text-decoration: underline;
 }
+
+
+
