@@ -11,7 +11,7 @@ html
 ## Application setup instructions
 To see the application first download the folder to your device and open it.
 ## known bugs
-## opyright, date, and licens information
+## Copyright, date, and licens information
 Copyright simeon pitts
 1/14/2023
 licens: vs code, css
