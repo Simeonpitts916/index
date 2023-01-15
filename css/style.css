@@ -40,15 +40,20 @@ p {
     width: 70%;
 }
 
-.aboutme {
+.about {
     font-style: oblique;
     text-align: center;
 
 }
 
-.abouttitle {
-    text-decoration: underline;
+.title-2 {
+    text-decoration: underline
 }
 
+ol {
+    text-align: left;
+}
 
-
+ul {
+    text-align: left;
+}
