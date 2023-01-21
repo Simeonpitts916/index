@@ -4,7 +4,7 @@ simeon pitts
 ## Description of application
  The infomation you will see is all of my About me, Projects, Background, Current interests and links
 ## Link to site on GitHub Pages
-https://github.com/Simeonpitts916?tab=repositories
+[def]: index.html
 ## Technologies used
 css
 html
