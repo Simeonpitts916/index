@@ -9,7 +9,44 @@ simeon pitts
 css
 html
 ## Application setup instructions
-To see the application first download the folder to your device and open it.
+Commits on Jan 21, 2023
+i have updated the link to my portfolio
+
+
+Simeonpitts916 committed
+Commits on Jan 14, 2023
+it will have <em> in my name it it now
+
+
+Simeonpitts916 committed
+more miss spell
+
+
+Simeonpitts916 committed
+it will have more up to date read me and spelling erre. it will also … 
+
+
+Simeonpitts916 committed
+it will have a read me up to date
+
+
+Simeonpitts916 committed
+it will have a read me and a up to date background and intersts
+
+
+Simeonpitts916 committed
+it will have an up dated my background and projects
+
+
+Simeonpitts916 committed 
+it will have a My repositorie link and also a about projects
+
+Simeonpitts916 committed 
+i have added a about me
+
+Simeonpitts916 committed 
+test
+
 ## known bugs
 ## Copyright, date, and licens information
 Copyright simeon pitts
